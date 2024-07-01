@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Hello World Multi Languages.
 
 Depending of the language on the ambient the program shows the corresponding
